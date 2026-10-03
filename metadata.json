@@ -1,0 +1,6 @@
+{
+  "name": "Lingua Glass",
+  "description": "Premium AMOLED Black and Liquid Glass AI Translator with Floating Overlay, Voice Conversation, and 60+ Languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
